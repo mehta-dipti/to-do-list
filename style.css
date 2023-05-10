@@ -1,0 +1,45 @@
+body {
+  margin: 0 50px;
+  color: rgb(34, 34, 34);
+}
+
+.container {
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+}
+
+i {
+  cursor: pointer;
+}
+
+h3 {
+  margin: 0;
+}
+
+#posts div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#msg {
+  color: red;
+}
+
+h1 {
+  text-align: center;
+  padding: 50px;
+}
+
+.submit-btn {
+  padding: 10px;
+  background-color: cadetblue;
+  border: none;
+  box-shadow: 0 2px 5px #777;
+  cursor: pointer;
+}
+
+i {
+  color: cadetblue;
+}
